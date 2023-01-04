@@ -1,2 +1,2 @@
-# Paradise-City-RP
-Dev updates for the Paradise City RP Server
+# Full Throttle RP
+Dev updates for the Full Throttle RP Server
