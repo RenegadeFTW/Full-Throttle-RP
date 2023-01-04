@@ -1,7 +1,9 @@
 # Full Throttle RP
-Dev updates for the Full Throttle RP Server
+Bug Fixes 1/4/2023
 
 
 Fixed Gas Pumps at Postal 120
+
 Fixed Jobs
+
 Fixed Crack Location
